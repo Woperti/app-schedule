@@ -1,0 +1,129 @@
+.stzRli{
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.selk1A{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+    white-space: nowrap;
+    transition: background-color .15s ease-in-out,opacity .15s ease-in-out;
+    color: unset;
+    text-decoration: unset;
+    cursor: pointer;
+}
+
+.selk1A:hover {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+    white-space: nowrap;
+    transition: background-color .15s ease-in-out,opacity .15s ease-in-out;
+    color: unset;
+    text-decoration: unset;
+    cursor: pointer;
+}
+
+.selk1A-act{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+    white-space: nowrap;
+    background-color: rgba(64,87,109,.07);
+    transition: background-color .15s ease-in-out,opacity .15s ease-in-out;
+    color: unset;
+    text-decoration: unset;
+    cursor: pointer;
+}
+
+.selk1AS{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+    white-space: nowrap;
+    transition: background-color .15s ease-in-out,opacity .15s ease-in-out;
+    color: unset;
+    text-decoration: unset;
+}
+
+.selk1A .pad{
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+[dir=ltr] ._selTX1{
+    margin-right: 12px;
+
+}
+
+._selTX1{
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+._selTX2{
+    width: 24px;
+    height: 24px;
+}
+
+
+._selTX3{
+    display: inline-block;
+    vertical-align: text-bottom;
+    box-sizing: border-box;
+}
+
+._SelTxp1{
+    overflow:hidden;
+}
+
+[dir=ltr] ._SelTxp02{
+    margin: 0;
+}
+
+[dir=ltr] ._SelTxp50{
+    text-align: left;
+}
+
+._SelTxp02{
+    color: var(--text-obscure);
+    font-family: Open Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.stzR1S{
+    font-weight: 700;
+}
+
+.stzR1{
+    font-weight: 400;
+}
+
+/*items*/
+
+@media screen and (min-width: 599px) {
+
+}
+
+@media screen and (min-width: 899px) {
+
+}
